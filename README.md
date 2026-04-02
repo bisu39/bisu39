@@ -12,7 +12,7 @@
 
 </td>
 <td>
-<img alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img alt="coding" width="300" align="center" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </td>
 </tr>
 </table>
