@@ -96,7 +96,7 @@
 
 ## 📫 Contact Me
 
-* 📧 Email: [biswajitr581@gmail.com](biswajitr581@gmail.com)
+* 📧 Email: biswajitr581@gmail.com
 * 💼 LinkedIn: [https://www.linkedin.com/in/biswajit-roy-dev/](https://www.linkedin.com/in/biswajit-roy-dev/)
 * 🌐 Portfolio: [https://bisu39.github.io/Portfolio/](https://bisu39.github.io/Portfolio/)
 * 🐙 GitHub: [https://github.com/bisu39](https://github.com/bisu39)
