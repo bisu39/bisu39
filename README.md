@@ -19,7 +19,7 @@
 
 ## 🧑‍💻 About Me
 
-* 🌱 Currently learning and building **REACT**
+* 🌱 Currently learning **REACT**
 * 💻 MERN Stack Developer (MongoDB, Express, React, Node.js)
 * 🧠 Interested in **Full Stack Development** & **System Design**
 * ⚡ Passionate about building scalable backend systems and real-world applications
