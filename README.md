@@ -39,6 +39,7 @@
 <td>
 <img src="https://skillicons.dev/icons?i=react,tailwind,bootstrap" />
 <img src="https://img.shields.io/badge/EJS-8A2BE2?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge" />
 </td>
 </tr>
 
@@ -57,7 +58,6 @@
 <td>
 <img src="https://skillicons.dev/icons?i=git" />
 <img src="https://img.shields.io/badge/Thunder%20Client-5A29E4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge" />
 </td>
 </tr>
 </table>
