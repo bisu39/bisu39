@@ -69,7 +69,7 @@
 ### 🛒 Full Stack E-commerce Website
 
 * Feature-rich e-commerce platform
-* 🖼️ Image handling, ⭐ ratings, 💬 comments, 🛍️ add to cart
+* 🖼️ Image handling, ⭐ ratings, 💬 comments, 🛍️ add to cart, 👤User Authentication
 * 🛡️ Centralized error handling for consistent API responses
 
 🔗 **GitHub Repo:** [Project-SS](https://github.com/bisu39/Project-SS)
